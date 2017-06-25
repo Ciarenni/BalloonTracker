@@ -1,0 +1,5 @@
+C:\Users\lance\Desktop\GroundStation\Balloon Tracker\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\lance\Desktop\GroundStation\Balloon Tracker\obj\Debug\Balloon_Tracker.Form1.resources
+C:\Users\lance\Desktop\GroundStation\Balloon Tracker\obj\Debug\Balloon_Tracker.Properties.Resources.resources
+C:\Users\lance\Desktop\GroundStation\Balloon Tracker\obj\Debug\Balloon_Tracker.SerialPortConfig.resources
+C:\Users\lance\Desktop\GroundStation\Balloon Tracker\obj\Debug\Balloon Tracker.csproj.GenerateResource.Cache
